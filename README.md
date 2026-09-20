@@ -1,8 +1,5 @@
 # Assignment 2: Factory Method & Abstract Factory
 
-**Course:** Software Design Patterns (ShP-2216)  
-**University:** Astana IT University  
-**Academic Year:** 2026-2027  
 
 ---
 
